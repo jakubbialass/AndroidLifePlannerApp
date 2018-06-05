@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_event_note_black_36dp"
+            android:title="Kalendarz" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_create_black_36dp"
+            android:title="Notatki"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="widok dnia" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ustawienia" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_coaching"
+                android:icon="@drawable/ic_school_black_36dp"
+                android:title="Coaching" />
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_info_black_36dp"
+                android:title="Info" />
+        </menu>
+    </item>
+
+</menu>

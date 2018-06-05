@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LifePlanner</string>
+    <string name="title_activity_navigation">navigation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="info_czesc">Cześć !</string>
+    <string name="info_czesc_tekst">Nazywam się Magdalena Wojtkowiak, jestem przedsiębiorcą, Trenerem Biznesu i akredytowanym Coachem. Pracuję z zarządami firm, średnią i wyższą kadrą  menedżerską, przedsiębiorcami oraz każdą osobą, której zależy na własnym  rozwoju. Na co dzień pomagam ludziom osiągnąć spójność pomiędzy życiem  zawodowym a prywatnym. Wierzę w ludzi i ich potencjał. Wiem, że codzienna  praca nad sobą przynosi zauważalne efekty.\nStąd ten planner. Bardzo się cieszę, że trafił on w Twoje ręce. Zależy mi na tym,  aby wykorzystywać swój potencjał bez ograniczeń i robić w życiu rzeczy ważne, potrzebne i przynoszące satysfakcję. Czy masz może podobne pragnienia?</string>
+    <string name="info_dlaczego">Dlaczego stworzyłam planner?</string>
+    <string name="info_dlaczego_tekst">Planner stanowi narzędzie, które wesprze Cię w codziennych zadaniach i w realizacji celów, które sobie stawiasz. Potencjał masz już w sobie. Teraz czas go  obudzić i wykorzystać. Podczas mojej pracy zawodowej korzystałam z różnych kalendarzy i przetestowałam wiele plannerów. Na bazie moich licznych doświadczeń postanowiłam  samodzielnie stworzyć narzędzie, które będzie funkcjonalne, czytelne i które  wesprze Cię w codziennym planowaniu zadań, wyznaczaniu celów oraz w reali - zacji Twoich założeń.  To działa! Pod warunkiem, że zaczniesz z niego korzystać.</string>
+    <string name="info_polecam">Polecam Ci ten planner, szczególnie jeśli:</string>
+    <string name="info_polecam_tekst">•  chcesz być zorganizowany i mieć narzędzie, które w tym pomoże,\n
+        •  czujesz rozczarowanie\n dotychczasowymi plannerami, z których korzystałeś,\n
+        •  pragniesz mieć kontrolę nad codziennymi sprawami, zadaniami, obowiązkami,\n
+        •  chcesz pogodzić życie zawodowe z życiem prywatnym,\n
+        •  chcesz przestać odkładać na później zadanie, urlop, dentystę, kurs tańca...,\n
+        •  marzysz o tym, by mieć czas na przyjemności,\n
+        •  jesteś gotów odkryć swój potencjał i zostać mistrzem rozpoczętych i dokończonych zadań,\n
+        •  chcesz wzmocnić swoją pewność siebie dzięki wzięciu odpowiedzialności  za to, jak wygląda Twój każdy dzień, budowaniu poczucia kontroli i sprawczości w swoim życiu.</string>
+    <string name="info_jak">JAK KORZYSTAĆ Z PLANNERA?</string>
+    <string name="info_jak2">...czyli krótka instrukcja obsługi.</string>
+    <string name="info_jak_tekst">Planner, który trzymasz w ręku został zaprojektowany tak, abyś mógł pracować z nim przez cały rok. To pozwoli Ci na bieżąco weryfikować, które cele już udało Ci się osiągnąć oraz ile pracy jest jeszcze przed Tobą. Monitorowanie Twoich dróg do celów będzie bardzo pomocne w ich realizacji.\n
+        Korzystając z plannera pamiętaj, aby na początku każdego miesiąca wykonać podsumowanie.\n
+        Rozlicz się sam ze sobą. Sprawdź:\n
+        • co już osiągnąłeś/aś?\n
+        • co i dlaczego odpuściłeś/aś?\n
+        • nad czym chcesz jeszcze popracować?\n
+        Raz  w  miesiącu  poświęć  sobie  chwilę  na  opisanie  tego,  co  chcesz osiągnąć  w  nadchodzącym  miesiącu.  Wyznacz  sobie  nowe  cele, priorytety oraz termin ich realizacji. To bardzo ważne.
+        Na końcowych stronach plannera znajdziesz też wartościową dawkę wiedzy. Przygotowałam dla Ciebie praktyczne wskazówki, które pomogą Ci lepiej zarządzać sobą w codziennym życiu, nie dać się zjeść tzw.
+        „bieżączce”, skutecznie realizować cele, które sobie wyznaczysz oraz zamienić marzenia we wspomnienia.\n
+        Życzę Ci efektywnego roku!</string>
+    <string name="info_podpis">Magdalena Wojtkowiak</string>
+</resources>
